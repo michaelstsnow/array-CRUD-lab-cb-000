@@ -32,4 +32,5 @@ end
 
 def retrieve_last_element_from_array(array)
   length = array.size();
+  array[length-1];
 end
